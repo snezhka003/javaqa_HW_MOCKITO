@@ -1,3 +1,4 @@
+[![Java CI with Maven](https://github.com/snezhka003/javaqa_HW_MOCKITO/actions/workflows/maven.yml/badge.svg?branch=main&event=push)](https://github.com/snezhka003/javaqa_HW_MOCKITO/actions/workflows/maven.yml)
 ## Задание 1 (обязательное)
 
 Вам необходимо реализовать менеджер афиши для фильмов. В качестве объекта фильма можно взять объект строки — название фильма — или создать свой дата-класс.
